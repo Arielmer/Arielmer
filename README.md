@@ -1,5 +1,6 @@
 ### Hi, I'm Ariel!🧜🏻‍♀️🫧
 👩🏻‍🎓 Current Student in M.S. Business Analytics @ UCI <br/>
+👩‍💻 Industrial Engineering Intern @ Applied Materials (B2B Semiconductor) <br/>
 👩‍🏫 Deliver Operation Intern @ ASML (B2B Semiconductor) <br/>
 👩‍💻 Data Analyst Intern @ Savant Electronics (B2B Tech)<br/>
 📊 Specializes in Machine Learning / Marketing Analytics / Customer Analytics / Operations Management / Business Intelligence<br/>
